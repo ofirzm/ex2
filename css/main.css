@@ -37,11 +37,6 @@ h3 {
 
 @media only screen and (max-width:1024px) {
     body {
-        padding: 0rem 10rem 7rem 10rem !important;
+        padding: 0rem 20rem 7rem 10rem !important;
     }
-}
-
-
-@media only screen and (min-width:1441px){
-    .grid
 }
