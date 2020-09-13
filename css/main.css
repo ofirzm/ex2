@@ -34,3 +34,9 @@ h3 {
     margin-bottom: -1.8rem;
     text-align: center;
 }
+
+@media only screen and (max-width:840px) {
+    body {
+        padding: 0rem 10rem 7rem 10rem;
+    }
+}
