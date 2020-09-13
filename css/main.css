@@ -40,3 +40,8 @@ h3 {
         padding: 0rem 10rem 7rem 10rem !important;
     }
 }
+
+
+@media only screen and (min-width:1441px){
+    .grid
+}
